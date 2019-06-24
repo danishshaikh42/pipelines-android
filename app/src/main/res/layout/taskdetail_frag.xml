@@ -43,7 +43,7 @@
         android:layout_below="@id/task_detail_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Medium Text"
+        android:text="Medium Text Vijayta"
         android:textAppearance="@style/TextAppearance.AppCompat.Body1" />
 
 </RelativeLayout>
